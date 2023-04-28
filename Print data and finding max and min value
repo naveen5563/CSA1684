@@ -1,0 +1,4 @@
+data = data.frame(column1=c(12, 45, 67, 23, 45, 78, 89),
+                  (column2=c(34, 41, 27, 23, 55, 78, 73))
+print(data)
+print(max(data)-min(data))
